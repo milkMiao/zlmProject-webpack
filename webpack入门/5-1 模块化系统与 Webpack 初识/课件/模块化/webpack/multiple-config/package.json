@@ -1,0 +1,13 @@
+{
+  "name": "multiple-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --config ./config/webapck.prod.js",
+    "dev": "webpack serve --config ./config/webpack.dev.js"
+  },
+  "dependencies": {
+    "webpack-merge": "^5.7.3"
+  }
+}

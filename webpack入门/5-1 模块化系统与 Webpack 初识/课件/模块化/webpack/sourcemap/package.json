@@ -1,0 +1,24 @@
+{
+  "name": "sourcemap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack serve"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "css-loader": "^5.2.6",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.1",
+    "markdown-it": "^12.0.6",
+    "mini-css-extract-plugin": "^1.6.0",
+    "raw-loader": "^4.0.2",
+    "style-loader": "^2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "webpack-dev-server": "^3.11.2"
+  }
+}

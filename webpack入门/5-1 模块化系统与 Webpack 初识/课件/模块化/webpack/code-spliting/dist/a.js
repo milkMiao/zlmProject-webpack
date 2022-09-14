@@ -1,0 +1,1 @@
+(self.webpackChunkcode_spliting=self.webpackChunkcode_spliting||[]).push([[786],{992:(e,n,l)=>{"use strict";function o(){console.log("这里是a模块"),l.e(128).then(l.bind(l,909)).then((e=>{console.log(e.default)}))}l.r(n),l.d(n,{default:()=>o})}}]);

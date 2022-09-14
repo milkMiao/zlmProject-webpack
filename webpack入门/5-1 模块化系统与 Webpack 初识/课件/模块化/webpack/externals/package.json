@@ -1,0 +1,12 @@
+{
+  "name": "externals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}

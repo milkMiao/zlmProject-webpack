@@ -1,0 +1,1 @@
+(()=>{"use strict";function o(){console.log("这里是a文件当中的a方法")}o(),o(),console.log("这里是b文件中的b方法")})();

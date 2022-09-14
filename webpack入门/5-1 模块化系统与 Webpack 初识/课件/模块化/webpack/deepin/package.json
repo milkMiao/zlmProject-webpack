@@ -1,0 +1,16 @@
+{
+  "name": "deepin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "css-loader": "^5.2.6",
+    "file-loader": "^6.2.0",
+    "markdown-it": "^12.0.6",
+    "raw-loader": "^4.0.2",
+    "style-loader": "^2.0.0"
+  }
+}
