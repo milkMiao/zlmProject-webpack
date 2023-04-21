@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"鸡蛋",
+        "type":"chicken-egg",
+        "image":"chicken-egg.jpeg",
+        "description":"又名鸡卵、鸡子，是母鸡",
+        "flavour": "味甘，性平，无毒 (煮熟后)"
+    },
+    {
+        "id":2,
+        "name":"鸭蛋",
+        "type":"duck-egg",
+        "image":"duck-egg.jpeg",
+        "description":"又名鸭子、",
+        "flavour":"性凉、味甘"
+    },
+    {
+        "id":3,
+        "name":"鹅蛋",
+        "type":"goose-egg",
+        "image":"goose-egg.jpeg",
+        "description":"家禽生下的卵",
+        "flavour":"有些油"
+    }
+]
