@@ -8,7 +8,7 @@
         "flavour": "味甘，性平，无毒 (煮熟后)"
     },
     {
-        "id":2,
+        "id":2, 
         "name":"鸭蛋",
         "type":"duck-egg",
         "image":"duck-egg.jpeg",
